@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T15:36:16 IST" name="Suite" finished-at="2023-03-10T15:36:16 IST" duration-ms="120">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T15:36:16 IST" name="Test" finished-at="2023-03-10T15:36:16 IST" duration-ms="120">
+      <class name="practice.PracticeClass1Test">
+        <test-method signature="method1()[pri:0, instance:practice.PracticeClass1Test@156b88f5]" started-at="2023-03-10T15:36:16 IST" name="method1" finished-at="2023-03-10T15:36:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="method2()[pri:0, instance:practice.PracticeClass1Test@156b88f5]" started-at="2023-03-10T15:36:16 IST" name="method2" finished-at="2023-03-10T15:36:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- practice.PracticeClass1Test -->
+      <class name="practice.PracticeClass2Test">
+        <test-method signature="method3()[pri:0, instance:practice.PracticeClass2Test@3d5c822d]" started-at="2023-03-10T15:36:16 IST" name="method3" finished-at="2023-03-10T15:36:16 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method signature="method4()[pri:0, instance:practice.PracticeClass2Test@3d5c822d]" started-at="2023-03-10T15:36:16 IST" name="method4" finished-at="2023-03-10T15:36:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- practice.PracticeClass2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
